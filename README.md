@@ -1,5 +1,11 @@
 # Smart contracts deployed
 
+### About this repository
+
+This repository is a chronological index of smart contracts I’ve deployed since 2024 across testnets and mainnets while learning and building in the Web3 ecosystem. 
+
+It reflects my progression from basic contracts to DeFi primitives, upgradeable proxies, NFTs, and identity-based protocols, with deployments spanning Ethereum testnets, Arbitrum, and World Chain Mainnet.
+
 1. [Storage Contract](https://sepolia.etherscan.io/tx/0x4ba2602b64c1c1a086df3c302ce865f34462a6a296d8c6185afb115f4725f4bc) - *27 October 2024* (Sepolia Testnet)
 
 2. [Simple Storage Verified](https://sepolia.etherscan.io/address/0xd730ea341f990900cc5f55ac510d02ae608efde9) - *01 December 2024* (Sepolia Testnet)
