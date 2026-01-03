@@ -27,18 +27,18 @@
 13. [Human Bond Hackathon version](https://sepolia.etherscan.io/address/0x347ec09dcee2a562ebcb15df84e396757720da0b
 ) - *23 November 2025* (Sepolia Testnet)
 
-14. [Vow NFT Hackathon version](https://sepolia.etherscan.io/address/0x7aa5acfbc1c08ed3682734572aafff3faea6a177) - *23 November 2025* (Sepolia Testnet)
+14. [Vow NFT Hackathon version](https://sepolia.etherscan.io/token/0x7aa5acfbc1c08ed3682734572aafff3faea6a177) - *23 November 2025* (Sepolia Testnet)
 
 15. [Milestone NFT Hackathon version](https://sepolia.etherscan.io/address/0x4189720b85a568049183d7dc05713ff016f377d5) - *23 November 2025* (Sepolia Testnet)
 
 16. [Human Bond v2](https://worldscan.org/address/0xB3cbCB0294995FE1aCD7187B94aEDBD4555c5A63) - 
  *17 December 2025* (World Chain Mainnet)
 
-17. [Vow Dynamic NFT](https://worldscan.org/address/0x8c64c304854F9284ddb976918dF37Bd4f5949F22) - 
+17. [Vow Dynamic NFT](https://worldscan.org/token/0x8c64c304854F9284ddb976918dF37Bd4f5949F22) - 
  *17 December 2025* (World Chain Mainnet)
 
 18. [Milestone NFT Upgradeable IPFS](https://worldscan.org/address/0x566c4a366625F08A714dd092f8bD2F0E86f906f5) - 
  *17 December 2025* (World Chain Mainnet)
 
-19. [TIME ERC-20 Token](https://worldscan.org/address/0x39e629681a9db65D9352961d8dCD4C96C4A1169a) - 
+19. [TIME ERC-20 Token](https://worldscan.org/token/0x39e629681a9db65D9352961d8dCD4C96C4A1169a) - 
  *17 December 2025* (World Chain Mainnet)
