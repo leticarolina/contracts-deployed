@@ -48,3 +48,7 @@ It reflects my progression from basic contracts to DeFi primitives, upgradeable 
 
 19. [TIME ERC-20 Token](https://worldscan.org/token/0x39e629681a9db65D9352961d8dCD4C96C4A1169a) - 
  *17 December 2025* (World Chain Mainnet)
+
+20. [LockFi Security Vault - Hackathon Winner v1](https://testnet.monadscan.com/address/0x31b36930BdFe07f4366379De4CFeAEF528Ce8e70) - *22 March 2026* (Monad testnet)
+
+21. [LockFi Security Vault - Upgrade v2](https://testnet.monadscan.com/address/0x0919Df3678039BCe59abdD19D7bf9e7D1b7eb5d8) - *02 April 2026* (Monad testnet)
