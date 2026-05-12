@@ -2,7 +2,7 @@
 
 ### About this repository
 
-This repository is a chronological index of smart contracts I’ve deployed since 2024 across testnets and mainnets while learning and building in the Web3 ecosystem. 
+This repository reflects my progression from basic contracts back in 2024 to DeFi primitives, upgradeable proxies, NFTs, and identity-based protocols, with deployments spanning Ethereum testnets, Arbitrum, Monad, and World Chain Mainnet.
 
 It reflects my progression from basic contracts to DeFi primitives, upgradeable proxies, NFTs, and identity-based protocols, with deployments spanning Ethereum testnets, Arbitrum, and World Chain Mainnet.
 
@@ -52,3 +52,9 @@ It reflects my progression from basic contracts to DeFi primitives, upgradeable 
 20. [LockFi Security Vault - Hackathon Winner v1](https://testnet.monadscan.com/address/0x31b36930BdFe07f4366379De4CFeAEF528Ce8e70) - *22 March 2026* (Monad testnet)
 
 21. [LockFi Security Vault - Upgrade v2](https://testnet.monadscan.com/address/0x0919Df3678039BCe59abdD19D7bf9e7D1b7eb5d8) - *02 April 2026* (Monad testnet)
+
+22. [PracticeV1 - UUPS Upgradeable Proxy](https://sepolia.etherscan.io/address/0x401f37F60fCB99072E2d010D9272441De947396E) - *12 May 2026* (Sepolia Testnet)
+
+23. [PracticeV1 - Implementation #1](https://sepolia.etherscan.io/address/0x300D26BBDE390e296dbE556266B2b5fBE9e15B55) - *12 May 2026* (Sepolia Testnet)
+
+24. [PracticeV2 - Implementation #2](https://sepolia.etherscan.io/address/0x0B86eC312faC270E237D4e375476DF0f7c472fB9) - *12 May 2026* (Sepolia Testnet)
