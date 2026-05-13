@@ -2,9 +2,7 @@
 
 ### About this repository
 
-This repository reflects my progression from basic contracts back in 2024 to DeFi primitives, upgradeable proxies, NFTs, and identity-based protocols, with deployments spanning Ethereum testnets, Arbitrum, Monad, and World Chain Mainnet.
-
-It reflects my progression from basic contracts to DeFi primitives, upgradeable proxies, NFTs, and identity-based protocols, with deployments spanning Ethereum testnets, Arbitrum, and World Chain Mainnet.
+It reflects my progression since 2024, deploying smart contracts of DeFi primitives, upgradeable proxies, NFTs, and identity-based protocols, with deployments spanning Ethereum testnets, Arbitrum, Stellar and World Chain Mainnet.
 
 1. [Storage Contract](https://sepolia.etherscan.io/tx/0x4ba2602b64c1c1a086df3c302ce865f34462a6a296d8c6185afb115f4725f4bc) - *27 October 2024* (Sepolia Testnet)
 
@@ -52,6 +50,8 @@ It reflects my progression from basic contracts to DeFi primitives, upgradeable 
 20. [LockFi Security Vault - Hackathon Winner v1](https://testnet.monadscan.com/address/0x31b36930BdFe07f4366379De4CFeAEF528Ce8e70) - *22 March 2026* (Monad testnet)
 
 21. [LockFi Security Vault - Upgrade v2](https://testnet.monadscan.com/address/0x0919Df3678039BCe59abdD19D7bf9e7D1b7eb5d8) - *02 April 2026* (Monad testnet)
+
+22. [Watchdog - Spending Limits for AI Agents](https://stellar.expert/explorer/testnet/contract/CDK4XFYOHDCJTRXNM4I56ZYUEVLQIRLRLOT7R6XRRYSGPBTGXXSB7DVH) - *04 April 2026* (Stellar testnet)
 
 22. [PracticeV1 - UUPS Upgradeable Proxy](https://sepolia.etherscan.io/address/0x401f37F60fCB99072E2d010D9272441De947396E) - *12 May 2026* (Sepolia Testnet)
 
